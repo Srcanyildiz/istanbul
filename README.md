@@ -1,5 +1,5 @@
 # Istanbul
-Istanbul is one of the largest metropolises in the world where approximately 15 million people live and it has a population density of 2,523 people per square kilometer [1]. As a resident of this city, I decided to use Istanbul in my project. 
+Istanbul is one of the largest metropolises in the world where approximately **15 million** people live and it has a population density of **2.523** people per square kilometer [1]. As a resident of this city, I decided to use Istanbul in my project. 
 
 
 
