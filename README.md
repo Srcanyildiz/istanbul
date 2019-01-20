@@ -1,5 +1,6 @@
 # Istanbul
-Istanbul is one of the largest metropolises in the world where over **15 million** people live and it has a population density of **2.813** people per square kilometer [1]. As a resident of this city, I decided to use Istanbul in my project. The city is divided into 39 districts in total. However, the fact that the districts are squeezed into an area of approximately 72 square kilometers causes the city to have a very intertwined and mixed structure.
+Istanbul is one of the largest metropolises in the world where over **15 million** people live and it has a population density of **2.813** people per square kilometer. As a resident of this city, I decided to use Istanbul in my project. The city is divided into **39** districts in total. However, the fact that the districts are squeezed into an area of approximately 72 square kilometers causes the city to have a very intertwined and mixed structure [1].
+
 
 
 
@@ -14,5 +15,6 @@ My references:
 
 Istanbul, 15 milyonun üzerinde insanın yaşadığı dünyanın en büyük metropollerinden biri ve kilometrekare başına ortalama 2.813 insan yoğunluğuna sahip bir alan üzerine kurulu. Şehir toplamda 39 ilçeye ayrılmış durumda. Ancak ilçelerin ortalama yaklaşık 72 kilometre karelik bir alana sıkışıyor olması, şehrin oldukça iç içe ve karışık bir yapıya sahip olmasına neden oluyor. 
 
+Rakamlardan anlaşılacağı üzere İstanbul oldukça kalabalık ve nüfus yoğunluğu yüksek olan bir şehir. Bu kadar kalabalık bir şehir olması özellikle perakende mağaza ve sosyal paylaşım mekan sahiplerini şehirde nüfusun yoğun olduğu yerlere yönlendiriyor. Yatırımcı tarafından düşündüğümüzde, daha düşük gayrimenkul masrafının bulunduğu ve yine aynı şekilde kurmak istediği işletme türünden daha az bulunduğu ilçeleri tercih etmesini bekleriz.
 
-Rakamlardan anlaşılacağı üzere İstanbul oldukça kalabalık ve nüfus yoğunluğu yüksek olan bir şehir. Bu durumun getirdiği başlıca sorunlardan
+
