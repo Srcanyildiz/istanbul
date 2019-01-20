@@ -6,19 +6,14 @@ As you can see from the figures, Istanbul is a city with a high population and p
 
 When we consider all these problems, we can create a map and information chart where the real estate index is placed on Istanbul and each district is clustered according to the venue density.
 
-# Data Description
+## Data Description
 To consider the problem we can list the datas as belows
 * I found the Second-level Administrative Divisions of the Turkey from Spatial Data Repository of NYU [2]. The .json file has coordinates of the all city of Turkey. I cleaned the data and reduced it to city of Istanbul ([Here is my .json file](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo_1.json)) where I used it to create **choropleth** map of House Index of Istanbul.
 * I used **Forsquare API** to get the most common venues of given Borough of Istanbul [3].
 * There are not too many public datas related to demographic and social parameters for the city of Istanbul. Therefor you need create your own data tables. In this case, I collected latest House Price Averages ([Here is my datas](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) for each Borough of Istanbul from housing retail web page [4].
 * I used **Google Map**, 'Search Nearby' option to get the center coordinates of the each Borough. ([Here is my datas](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
 
-
-
-
-
-
-My references:
+### References:
 * [1] [Istanbul - Wikipedia](https://en.wikipedia.org/wiki/Istanbul)
 * [2] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
 * [3] [Forsquare API](https://developer.foursquare.com/)
