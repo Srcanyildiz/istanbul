@@ -17,7 +17,7 @@ To consider the problem we can list the datas as belows
 
 My references:
 * [1] https://en.wikipedia.org/wiki/Istanbul
-* [2] https://geo.nyu.edu/catalog/stanford-nj696zj1674
+* [2] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
 * [3] House prices for each Borough from "Hurriyet Retail Index for 2018", https://www.hurriyetemlak.com/Emlak-Endeksi/Detayli-Analiz/Istanbul
 * [4] I get Latitude and Longitude informations from Google Map "Look Close Area" option.
 
