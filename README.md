@@ -17,6 +17,6 @@ To consider the problem we can list the datas as belows
 * [1] [Istanbul - Wikipedia](https://en.wikipedia.org/wiki/Istanbul)
 * [2] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
 * [3] [Forsquare API](https://developer.foursquare.com/)
-* [4] [House prices for each Borough from "Hurriyet Retail Index for 2018"](https://www.hurriyetemlak.com/Emlak-Endeksi/Detayli-Analiz/Istanbul)
+* [4] [House prices of each Borough from "Hurriyet Retail Index for 2018"](https://www.hurriyetemlak.com/Emlak-Endeksi/Detayli-Analiz/Istanbul)
 * [5] [Google Map](https://www.google.com/maps/)
 
