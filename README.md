@@ -1,4 +1,4 @@
-# House Prices & Venues in Istanbul
+# Housing Sales Prices & Venues in Istanbul
 ## Description & Disscusion of the Background
 Istanbul is one of the largest metropolises in the world where over **15 million** people live and it has a population density of **2.813** people per square kilometer. As a resident of this city, I decided to use Istanbul in my project. The city is divided into **39** districts in total. However, the fact that the districts are squeezed into an area of approximately **72** square kilometers causes the city to have a very intertwined and mixed structure [1].
 
@@ -17,6 +17,6 @@ To consider the problem we can list the datas as belows
 * [1] [Istanbul - Wikipedia](https://en.wikipedia.org/wiki/Istanbul)
 * [2] [Second-level Administrative Divisions of the Turkey](https://geo.nyu.edu/catalog/stanford-nj696zj1674)
 * [3] [Forsquare API](https://developer.foursquare.com/)
-* [4] [House prices of each Borough from "Hurriyet Retail Index for 2018"](https://www.hurriyetemlak.com/Emlak-Endeksi/Detayli-Analiz/Istanbul)
+* [4] [Housing Sales Prices of each Borough from "Hurriyet Retail Index for 2018"](https://www.hurriyetemlak.com/Emlak-Endeksi/Detayli-Analiz/Istanbul)
 * [5] [Google Map](https://www.google.com/maps/)
 
