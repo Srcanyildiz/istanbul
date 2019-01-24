@@ -10,7 +10,7 @@ When we consider all these problems, we can create a map and information chart w
 To consider the problem we can list the datas as belows
 * I found the Second-level Administrative Divisions of the Turkey from Spatial Data Repository of NYU [2]. The .json file has coordinates of the all city of Turkey. I cleaned the data and reduced it to city of Istanbul ([Here is my .json file](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo_1.json)) where I used it to create **choropleth** map of Housing Sales Price Index of Istanbul.
 * I used **Forsquare API** to get the most common venues of given Borough of Istanbul [3].
-* There are not too many public datas related to demographic and social parameters for the city of Istanbul. Therefor you must set-up your own data tables in most cases. In this case, I collected latest House Price Averages ([Here is my datas](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) for each Borough of Istanbul from housing retail web page [4].
+* There are not too many public datas related to demographic and social parameters for the city of Istanbul. Therefor you must set-up your own data tables in most cases. In this case, I collected latest per square meter Housing Sales Price Averages ([Here is my datas](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) for each Borough of Istanbul from housing retail web page [4].
 * I used **Google Map**, 'Search Nearby' option to get the center coordinates of the each Borough. ([Here is my datas](https://github.com/Srcanyildiz/istanbul/blob/master/istanbul_geo.csv)) [5].
 
 ### References:
